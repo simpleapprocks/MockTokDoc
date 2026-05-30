@@ -1,4 +1,3 @@
-[Read our Terms and Conditions](./terms)
 # Privacy Policy
 
 **Effective Date:** 2026-05-28
@@ -86,3 +85,5 @@ We may update this policy from time to time. We will notify you of any changes b
 ## 11. Contact Us
 
 For questions or concerns about our Privacy Policy, please contact us at Support@MockTok.com.
+
+[Read our Terms and Conditions](./terms)
