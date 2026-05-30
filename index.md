@@ -1,3 +1,4 @@
+[Read our Terms and Conditions](./terms)
 # Privacy Policy
 
 **Effective Date:** 2026-05-28
