@@ -35,7 +35,7 @@ We do not actively monitor user input for corporate confidentiality violations a
 ## 4. Data Sharing and Disclosure
 
 - **Service Providers:** Information may be shared with third-party service providers for business operations, data analysis, and email delivery. Including but not limited to:
-    - OpenAI/Google/OpenRouter/AtlasCloud for AI Large Language Model to generate response
+    - OpenAI/Google/OpenRouter/AtlasCloud/DeepInfra/Parasail for AI Large Language Model to generate response
     - OpenAI/Google/Deepgram for Multiple media generation
     - OpenAI/Google/Deepgram for speech recognition
     - Google Firebase for hosting, authentication, storing, back-end operations, API calls
@@ -48,6 +48,8 @@ We do not actively monitor user input for corporate confidentiality violations a
     - [Deepgram Privacy](https://deepgram.com/privacy) ([https://deepgram.com/privacy](https://deepgram.com/privacy))
     - [OpenRouter Privacy](https://openrouter.ai/privacy) ([https://openrouter.ai/privacy](https://openrouter.ai/privacy))
     - [AtlasCloud](https://www.atlascloud.ai/privacy) ([https://www.atlascloud.ai/privacy](https://www.atlascloud.ai/privacy))
+    - [DeepInfra](https://deepinfra.com/privacy) ([https://deepinfra.com/privacy](https://deepinfra.com/privacy))
+    - [Parasail](https://parasail.io/legal/privacy-policy) ([https://parasail.io/legal/privacy-policy](https://parasail.io/legal/privacy-policy))
 - **Legal Requirements:** If legally required, your information may be disclosed in response to legal processes.
 - **Business Transfers:** In the event of a merger or acquisition, your data may be transferred as part of business assets.
 
