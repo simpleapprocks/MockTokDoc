@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** 2026-05-28
+**Effective Date:** 2026-06-20
 
-Version 3.0.1
+Version 3.0.2
 
 ## 1. Introduction, Intended Use, and Prohibition of Sensitive Information
 
